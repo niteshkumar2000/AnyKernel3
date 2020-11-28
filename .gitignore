@@ -1,0 +1,6 @@
+# Ignore final kernel Image
+*.gz-dtb
+
+# Ignore final zip file
+*.zip
+
